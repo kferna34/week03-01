@@ -8,5 +8,22 @@ namespace week03_01
 {
    public  class Person
     {
+        //Private instance Var
+       private string _name;
+
+        //public properties 
+        public string Name
+        {
+            get
+            {
+                return this._name;
+            }
+            set
+            {
+                this._name = value;
+            }
+
+        }
+
     }
 }
