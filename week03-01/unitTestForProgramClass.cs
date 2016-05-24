@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace week03_01
 {
-   public  class Person
+    class unitTestForProgramClass
     {
     }
 }

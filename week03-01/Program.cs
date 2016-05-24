@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 */
 namespace week03_01
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
